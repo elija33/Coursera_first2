@@ -1,0 +1,15 @@
+.tobuy{
+  font-size: 1.3em;
+  color: red;
+  font-weight: bold;
+}
+li {
+  margin-bottom: 7px;
+  font-size: 1.3em;
+}
+li > button {
+  margin-left: 7px;
+}
+button > span {
+  color:: green;
+}
